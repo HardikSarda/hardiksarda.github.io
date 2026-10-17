@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hardiksarda.me/sitemap.xml
